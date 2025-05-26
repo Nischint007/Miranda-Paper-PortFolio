@@ -1,6 +1,7 @@
 @font-face {
     font-family: myFont;
-    src: url(Canopee\ Regular.otf);
+    src: url(Canopee\ Regular.woff2);
+    font-display: swap;
 }
 
 * {
